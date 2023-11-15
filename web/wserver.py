@@ -221,20 +221,20 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @bipuldey19-Telegram-->
+  <!--© maintenance by @pro_morningstar-Telegram-->
     <header>
       <div class="brand">
         <img
           src="https://graph.org/file/1a6ad157f55bc42b548df.png"
           alt="logo"
         />
-        <a href="https://t.me/krn_adhikari">
+        <a href="https://t.me/pro_morningstar">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/weebzone/WZML"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/krn_adhikari"><i class="fab fa-telegram"></i></a>
+        <a href="https://www.instagram.com/pro_morningstar"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/pro_morningstar"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -613,20 +613,20 @@ section span{
     </style>
   </head>
 <body>
-   <!--© Designed and coded by @bipuldey19-Telegram-->
+   <!--© maintenance by @pro_morningstar-Telegram-->
     <header>
       <div class="brand">
         <img
           src="https://graph.org/file/1a6ad157f55bc42b548df.png"
           alt="logo"
         />
-        <a href="https://t.me/WZML_X">
+        <a href="https://t.me/Movies_Unloaded_Network">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/weebzone/WZML-X"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/WZML_X"><i class="fab fa-telegram"></i></a>
+        <a href="https://www.instagram.com/pro_morningstar"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/Movies_Unloaded_Network"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -831,16 +831,16 @@ def homepage():
 </head>
 <body>
     <div class="header">
-        <h1>WZML-X</h1>
+        <h1>𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐧𝐥𝐨𝐚𝐝𝐞𝐝 𝐍𝐞𝐭𝐰𝐨𝐫𝐤</h1>
     </div>
     <div class="content">
         <img src="https://graph.org/file/639fe4239b78e5862b302.jpg" class="image">
-        <a href="https://telegram.me/WZML_X" style="text-decoration: none;">
+        <a href="https://telegram.me/movies_unloaded_network" style="text-decoration: none;">
             <button class="button">Join Updates Channel Now</button>
         </a>
     </div>
     <div class="footer">
-© 2022-23 WZML-X. All Rights Reserved.
+© 2022-24 Movies Unloaded Network. All Rights Reserved.
     </div>
 </body>
 </html>
