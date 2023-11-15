@@ -6,7 +6,7 @@ class WZMLStyle:
     ST_BN1_URL = 'https://telegram.me/Movies_Unloaded_Network'
     ST_BN2_NAME = '😘 Use Me'
     ST_BN2_URL = 'https://telegram.me/leechx_grp'
-    ST_MSG = '''<b>✨ Cloud_station9 ➔ Mirror & Leech</b>\n\nℹ️ I Can Upload Files, Links, Torrents, etc. to Telegram, Google Drive, DDL Servers and Rclone Supported Sites!\n\n'''
+    ST_MSG = '''<b>✨ 𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐧𝐥𝐨𝐚𝐝𝐞𝐝 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 ➔ Mirror & Leech</b>\n\nℹ️ I Can Upload Files, Links, Torrents, etc. to Telegram, Google Drive, DDL Servers and Rclone Supported Sites!\n\n'''
     ST_BOTPM = '''<b>🕵️ Bot PM Initiated Successfully!\n\nℹ️ I will send all your files and links here.</b>'''
     ST_UNAUTH = '''<b>⚠️ Access Denied!</b>'''
     # ---------------------
