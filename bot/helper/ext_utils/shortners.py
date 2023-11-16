@@ -36,8 +36,8 @@ def short_url(longurl, attempt=0):
         elif "bitly.com" in _shortener:
             headers = {"Authorization": f"Bearer {_shortener_api}"}
             return cget('POST', "https://api-ssl.bit.ly/v4/shorten", json={"long_url": longurl}, headers=headers).json()["link"]
-        elif "ouo.io" in _shortener:
-            return cget('GET', f'http://ouo.io/api/{_shortener_api}?s={longurl}', verify=False).text
+        elif "shareus.io" in _shortener:
+            return cget('GET', f'https://api.shareus.io/easy_api?key={_shortener_api}&link={longurl}', verify=False).text
         elif "cutt.ly" in _shortener:
             return cget('GET', f'http://cutt.ly/api/api.php?key={_shortener_api}&short={longurl}').json()['url']['shortLink']
         else:
